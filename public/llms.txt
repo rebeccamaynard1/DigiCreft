@@ -1,0 +1,18 @@
+# DigiCraft
+
+> AI-generated custom digital products — planners, storybooks, guides, affirmation cards, and printable templates delivered as PDFs within 60 seconds of purchase.
+
+DigiCraft lets you customize a digital product through a short form, pay securely, and receive a unique, AI-generated PDF instantly. Products are printable on A4 or Letter paper and saved to your dashboard for re-download.
+
+## Pages
+
+- [Home](/): What DigiCraft is and featured product categories.
+- [Browse Products](/products): All AI digital product types organized by category.
+- [FAQ](/faq): How DigiCraft works, delivery, payments, and refunds.
+- [Contact](/contact): Get in touch with the DigiCraft team.
+- [Terms](/terms): Terms of service.
+- [Privacy](/privacy): Privacy policy.
+
+## Optional
+
+- [Sign in](/auth): Account access for managing past purchases.
